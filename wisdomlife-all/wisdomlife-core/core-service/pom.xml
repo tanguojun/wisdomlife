@@ -21,5 +21,10 @@
   		<artifactId>core-iservice</artifactId>
   		<version>${parent.version}</version>
   	</dependency>
+  	<dependency>
+  		<groupId>com.wisdomlife</groupId>
+  		<artifactId>core-dao</artifactId>
+  		<version>${parent.version}</version>
+  	</dependency>
   </dependencies>
 </project>

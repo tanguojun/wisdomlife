@@ -18,7 +18,7 @@
   <dependencies>
   	<dependency>
   		<groupId>com.wisdomlife</groupId>
-  		<artifactId>core-dao</artifactId>
+  		<artifactId>entity-vo</artifactId>
   		<version>${parent.version}</version>
   	</dependency>
   </dependencies>
